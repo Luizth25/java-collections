@@ -3,8 +3,8 @@ package list.operacoesBasicas;
 public class Item {
     //atributos
     private String nome;
-    private Double preco;
-    private Integer quantidade;
+    private double preco;
+    private int quantidade;
 
     public  Item (String nome, Double preco, Integer quantidade)
     {
